@@ -22,5 +22,5 @@ Requerimentos:
 Execução:
 1. Clonar repositório ou baixar a pasta
 2. Executar script SQL completo
-3. Analisar resultados nas imagens geradas
+3. Analisar as consultas nas imagens baixadas 
 
