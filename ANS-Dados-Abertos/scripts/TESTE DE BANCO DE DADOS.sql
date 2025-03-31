@@ -186,7 +186,7 @@ SET
 -- =============================================
 -- IMPORTAÇÃO DOS DADOS CADASTRAIS
 -- =============================================
-LOAD DATA LOCAL INFILE 'C:/xampp/mysql/data/extracoes/Relatorio_cadop.csv'
+LOAD DATA LOCAL INFILE 'C:\Users\haris\Desktop\Projeto\dicionario_de_dados_das_operadoras_ativas .csv'
 INTO TABLE operadoras
 CHARACTER SET latin1  -- Alterado para latin1 que é mais compatível
 FIELDS TERMINATED BY ';'
